@@ -1,6 +1,6 @@
 //your JS code here. If required.
 let quoteDisplayDiv=document.getElementsByClassName('quote-display')[0];
-let showTimer=document.querySelector('.showTimer');
+let showTimer=document.querySelector('.timer');
 const quoteInput=document.getElementById('quoteInput');
 
 async function getQuotes(){
